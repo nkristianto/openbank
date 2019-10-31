@@ -112,7 +112,7 @@
           "200": {
             "description": "Request executed successfully.",
             "schema": {
-              "$ref": "#/definitions/consumerEnableOrDisableConsumerResponse"
+              "$ref": "#/definitions/consumerEnableOrDisableConsumerResponses"
             }
           },
           "400": {

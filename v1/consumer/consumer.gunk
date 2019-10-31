@@ -177,7 +177,7 @@ type ConsumerService interface {
 	//                         Description: "Request executed successfully.",
 	//                         Schema: openapiv2.Schema{
 	//                                 JSONSchema: openapiv2.JSONSchema{
-	//                                         Ref: "#/definitions/consumerEnableOrDisableConsumerResponse",
+	//                                         Ref: "#/definitions/consumerEnableOrDisableConsumerResponses",
 	//                                 },
 	//                         },
 	//                 },
